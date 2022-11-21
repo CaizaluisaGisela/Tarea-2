@@ -2,10 +2,7 @@
 
 
 1. OBJETIVOS
-
-
-
-1.2 OBJETIVOS ESPECÍFICOS
+1.1 OBJETIVOS ESPECÍFICOS
 
 
 
@@ -37,22 +34,27 @@
 
 2.2 ENERGÍA Y POTENCIA
 
-2.2.1 
+2.2.1 Energía y potencia
 
+![image](https://user-images.githubusercontent.com/117691236/202955829-8da681e1-bac5-410e-be49-4a62afb9aac3.png)
 
-2.2.2
+![image](https://user-images.githubusercontent.com/117691236/202957226-3213e651-4307-4cdd-a443-1531431e3be1.png)
 
+2.2.2 Potencia en un circuito eléctrico
 
+![image](https://user-images.githubusercontent.com/117691236/202959544-a189bc99-782b-4238-bd8a-4dfd2f431c9a.png)
 
-2.2.3
+2.2.3 Potencia nominal en resistores
 
+![image](https://user-images.githubusercontent.com/117691236/202960730-1947429f-0583-4b88-9edd-da6c8016208e.png)
 
+2.2.4 Conversión de energía y caída de voltaje en una resistencia
 
-2.2.4
+![image](https://user-images.githubusercontent.com/117691236/202962007-f0b21826-bbd8-4266-895a-ee01c9f4c95b.png)
 
+2.2.5 Fuentes de potencia
 
-2.2.5
-
+![CAPITULO 3 Y 4](https://user-images.githubusercontent.com/117691236/202963816-47558090-2594-4093-8bed-67abd8c53776.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
