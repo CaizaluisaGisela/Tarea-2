@@ -1,10 +1,10 @@
-# InformeTarea
+# Informe Tarea 2
 
 
 1. OBJETIVOS
 1.1 OBJETIVOS ESPECÍFICOS
 
-
+Mediante ejercicios y comprensión lectora, comprender de mejor forma los conceptos de la ley de Ohm y de la energía y potencia.
 
 2. MARCO TEÓRICO
 
@@ -305,6 +305,6 @@ El valor de salida es menor al valor de entrada
 
 5. CONCLUSIONES
 
-
+Gracias a la lectura de los temas que se presentan tanto en el capitulo 3 y 4, se pudo conocer como se definen varios conceptos como por ejemplo de la energía y potencia, el cálculo de potencia, la seleccion de resistores, entre otros. Además de que por medio de ejercicios, se pudo aplicar estos conocimientos a parte de los que ya habíamos visto en los capitulos 1 y 2.
 
 6. BIBLIOGRAFÍA
